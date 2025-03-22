@@ -1,0 +1,29 @@
+{
+  "tags": [
+    "tag_1"
+  ],
+  "folders": [
+    "\u9ed8\u8ba4\u6587\u4ef6\u5939",
+    "2"
+  ],
+  "cards": [
+    {
+      "title": "1",
+      "answer": "1",
+      "tags": [
+        "tag_1"
+      ],
+      "folder": "\u9ed8\u8ba4\u6587\u4ef6\u5939",
+      "proficiency": 20,
+      "last_practiced": "2025-03-21T22:25:06.396374"
+    },
+    {
+      "title": "2",
+      "answer": "2",
+      "tags": [],
+      "folder": "\u9ed8\u8ba4\u6587\u4ef6\u5939",
+      "proficiency": 0,
+      "last_practiced": "2025-03-22T19:07:51.080750"
+    }
+  ]
+}

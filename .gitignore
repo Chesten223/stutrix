@@ -1,0 +1,7 @@
+/modules/__pycache__
+/data/notes/*
+/data/search_sessions/*
+runtime.log
+/data/notes_data.json
+/data/todos.json
+.VSCodeCounter

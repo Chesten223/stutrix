@@ -1,0 +1,9 @@
+{
+  "theme": "\u9ed8\u8ba4\u6d45\u8272",
+  "api_keys": {
+    "deepseek": "YOUR API KEY"
+  },
+  "font_size": 12,
+  "font": "Segoe UI",
+  "data_path": ""
+}
